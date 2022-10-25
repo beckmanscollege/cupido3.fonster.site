@@ -535,7 +535,7 @@ img#bakgrunden  {
   
     #lockedcontent  {
     display: block;
-    background-color: white;
+    background-color: black;
     height: 100%;
     width: 100%;
     position: absolute;
@@ -547,6 +547,7 @@ img#bakgrunden  {
     font-family: input-mono, monospace;
     font-size: 18px;
     line-height: 1.3;
+      color: white;
   }
   
 }
@@ -559,7 +560,7 @@ img#bakgrunden  {
   
      #lockedcontent  {
     display: block;
-    background-color: white;
+    background-color: black;
     height: 100%;
     width: 100%;
     position: absolute;
@@ -571,6 +572,7 @@ img#bakgrunden  {
     line-height: 1.3;
     text-align: center;
     margin-top: 40vh;
+      color: white;
   }
 }
 
@@ -582,7 +584,7 @@ img#bakgrunden  {
     
     #lockedcontent  {
     display: block;
-    background-color: white;
+    background-color: black;
     height: 100%;
     width: 100%;
     position: absolute;
@@ -596,6 +598,7 @@ img#bakgrunden  {
     line-height: 1.3;
     text-align: center;
     margin-top: 30vh;
+      color: white;
   }
     
   }
